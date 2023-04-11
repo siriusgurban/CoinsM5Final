@@ -1,6 +1,6 @@
 import Homepage1 from "./assets/Homepage1";
 import { BrowserRouter, Routes, Route } from "react-router-dom"
-import CoinsShowAll from "./assets/CoinsShowAll";
+import CoinsShowAll from "./assets/CoinsShowAll.jsx";
 
 
 function App() {

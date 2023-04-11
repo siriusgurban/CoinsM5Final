@@ -16,9 +16,11 @@ function CoinsShowAll(props) {
 
   return (
     <div className="coinsshowall">
+
       <p>{props.name}</p>
-      <Link to="/coinsallshow">Show all</Link>
-      
+      <Link to="/coinsallshow">Show alle ewrerw</Link>
+     <p>fdhgfh</p>
+     
     </div>
   );
 }
