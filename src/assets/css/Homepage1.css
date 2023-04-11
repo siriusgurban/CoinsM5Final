@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+input{
+    width: 378px;
+    height: 48px;
+}
+
+h1{
+    font-size: 50px;
+    margin-bottom: 25px;
+}
+
+.homepage{
+    margin: 52px;
+}
+
+.inputName{
+    display: flex;
+    flex-direction: column;
+    margin-right: 30px;
+}
+
+.btn{
+    width: 120px;
+    height: 48px;
+    background-color: #833AE0;
+color: white;
+outline: none;
+margin-left: 30px;
+
+}
+
+.coinshow{
+    display: flex;
+}
