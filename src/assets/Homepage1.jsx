@@ -21,10 +21,7 @@ function Homepage1() {
 
         <p>Bullion coins</p>
         <Link to="coinsallshow">Show all</Link>
-        <img src="/1.jpg" alt="" />        
-        {/* <CoinsShowAll name="Bullion coinsy"/>
-        <CoinsShowAll name="Exclusive coins"/>
-        <CoinsShowAll name="Commemorative coins"/> */}
+        <img src="/1.jpg" alt=""  width="100px" height="100px"/>        
       </div>
 
     </div>
